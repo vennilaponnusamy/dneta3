@@ -26,7 +26,7 @@ Execute in Tools » NuGet Package Manager » Package Manager Console
 NuGet\Install-Package neta3 -Version 1.1.2
 
 ### Prerequisites
-a3net Library Connect the  .NET Core 6.0,net6.0-android,net6.0-ios,net6.0-maccatalyst ,net6.0-macos,net6.0-tvos,net6.0-windows
+dneta3 Library Connect the  .NET Core 6.0,net6.0-android,net6.0-ios,net6.0-maccatalyst ,net6.0-macos,net6.0-tvos,net6.0-windows
 
 ### Add Header
 
