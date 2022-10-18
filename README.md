@@ -1,4 +1,4 @@
-# dneta3-ALICEBLUE ( BETA Version )
+# dneta3-ALICEBLUE (BETA)
 
 # Official .Net SDK for Alice Blue API
 
