@@ -1,5 +1,5 @@
 ﻿using neta3;
-namespace dneta3
+namespace sample_code
 {
 
     public class Main_class
